@@ -10,3 +10,4 @@ This repository is a collection of small educational projects focused on **desig
 📂 **Navigation**: Each folder represents a design pattern. Inside, you’ll find a specific README explaining the purpose and key takeaways of that example.
 
 - [Factory Method](CreationalPatterns/FactoryMethod)
+- [Abstract Factory](CreationalPatterns/AbstractFactory)
