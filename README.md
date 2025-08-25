@@ -11,3 +11,4 @@ This repository is a collection of small educational projects focused on **desig
 
 - [Factory Method](CreationalPatterns/FactoryMethod)
 - [Abstract Factory](CreationalPatterns/AbstractFactory)
+- [Builder](CreationalPatterns/Builder)
