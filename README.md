@@ -9,7 +9,9 @@ This repository is a collection of small educational projects focused on **desig
 
 📂 **Navigation**: Each folder represents a design pattern. Inside, you’ll find a specific README explaining the purpose and key takeaways of that example.
 
+### Creational Patterns
 - [Factory Method](CreationalPatterns/FactoryMethod)
 - [Abstract Factory](CreationalPatterns/AbstractFactory)
 - [Builder](CreationalPatterns/Builder)
 - [Prototype](CreationalPatterns/Prototype)
+- [Singleton](CreationalPatterns/Singleton)
