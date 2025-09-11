@@ -15,3 +15,6 @@ This repository is a collection of small educational projects focused on **desig
 - [Builder](CreationalPatterns/Builder)
 - [Prototype](CreationalPatterns/Prototype)
 - [Singleton](CreationalPatterns/Singleton)
+
+### Structural Patterns
+- [Adapter](StructuralPatterns/Adapter)
